@@ -1,0 +1,2 @@
+# OpenCLfractal
+simple fractals onOpenCL
